@@ -12,5 +12,8 @@
   "devDependencies": {
     "cypress": "^14.2.0"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "curso-cypress": "file:"
+  }
 }
